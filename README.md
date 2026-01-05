@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=freddyrosa16&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyrosa16&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=freddyrosa16&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 🔝 Boot.dev Progress
+![]([https://github-contributor-stats.vercel.app/api?username=freddyrosa16&limit=5&theme=radical&combine_all_yearly_contributions=true](https://www.boot.dev/u/freddster))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
