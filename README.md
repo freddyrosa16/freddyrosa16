@@ -12,12 +12,6 @@ Most of my projects start as tools I want to use myself.
 
 ## 🚀 Current Projects
 
-## 🤖 AI Projects
-
-## 🛠 Developer Tools
-
-## 📚 Learning Projects
-
 ## 🌐 Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/freddy-rosa16)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/freddyrosa16)
