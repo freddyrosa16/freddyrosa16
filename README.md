@@ -11,6 +11,7 @@ Most of my projects start as tools I want to use myself.
 ---
 
 ## 🚀 Current Projects
+- [![🤖📚 Bookbot]](https://github.com/freddyrosa16/bookbot)
 
 ## 🌐 Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/freddy-rosa16)
