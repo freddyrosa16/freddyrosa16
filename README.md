@@ -11,7 +11,7 @@ Most of my projects start as tools I want to use myself.
 ---
 
 ## 🚀 Current Projects
-- [![🤖📚 Bookbot]](https://github.com/freddyrosa16/bookbot)
+- 🤖📚 **[Bookbot](https://github.com/freddyrosa16/bookbot)** - Python program that analyzes novels and reports word & character usage
 
 ## 🌐 Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/freddy-rosa16)
