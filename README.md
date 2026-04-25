@@ -11,7 +11,7 @@ Most of my projects start as tools I want to use myself.
 ---
 
 ## 🚀 Current Projects
-- ☄️ **[Asteroid Game](https://github.com/freddyrosa16/asteroid) - Simple video game, based on the classic Asteroids**
+- 🚀🪐 **[Asteroid Game](https://github.com/freddyrosa16/asteroid) - Simple video game, based on the classic Asteroids**
 - 🤖📚 **[Bookbot](https://github.com/freddyrosa16/bookbot)** - Python program that analyzes novels and reports word & character usage
 
 ## 🌐 Connect
