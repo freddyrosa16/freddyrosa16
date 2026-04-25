@@ -11,8 +11,9 @@ Most of my projects start as tools I want to use myself.
 ---
 
 ## 🚀 Current Projects
+- 💻📋 **[Task Tracker Cli](https://github.com/freddyrosa16/task_tracker_cli) - Command-line tool to create, manage, and track tasks**
 - 🚀🪐 **[Asteroid Game](https://github.com/freddyrosa16/asteroid) - Simple video game, based on the classic Asteroids**
-- 🤖📚 **[Bookbot](https://github.com/freddyrosa16/bookbot)** - Python program that analyzes novels and reports word & character usage
+- 🤖📚 **[Bookbot](https://github.com/freddyrosa16/bookbot) - Python program that analyzes novels and reports word & character usage**
 
 ## 🌐 Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/freddy-rosa16)
