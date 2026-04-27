@@ -11,6 +11,7 @@ Most of my projects start as tools I want to use myself.
 ---
 
 ## 🚀 Current Projects
+- 🌐🐙 **[GitHub Activity CLI](https://github.com/freddyrosa16/github-activity-cli) - A command-line tool that fetches and displays a GitHub user's recent public activity using the GitHub API.**
 - 💻📋 **[Task Tracker Cli](https://github.com/freddyrosa16/task_tracker_cli) - Command-line tool to create, manage, and track tasks**
 - 🚀🪐 **[Asteroid Game](https://github.com/freddyrosa16/asteroid) - Simple video game, based on the classic Asteroids**
 - 🤖📚 **[Bookbot](https://github.com/freddyrosa16/bookbot) - Python program that analyzes novels and reports word & character usage**
